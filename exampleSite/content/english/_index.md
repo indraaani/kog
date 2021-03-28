@@ -27,18 +27,16 @@ feature:
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: Youth unemployment rates are at an all-time high.
     images:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Some would argue that this is due to disparity in the youth’s skill levels.
+      We are here to disagree. Youngsters across the country have theoretical understanding
+      of their fields, but have not been taught how to practically apply themselves.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: It is a privately owned Information and cyber security company
