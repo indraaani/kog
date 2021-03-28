@@ -57,8 +57,9 @@ call_to_action:
   enable: true
   title: Ready to get started?
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: If you're just getting started with your career, download the K.O.G application
+    on the App Store or Play Store. If you're a mentor looking to help our project,
+    get in touch with us.
   button:
     enable: true
     label: Contact Us
