@@ -1,5 +1,5 @@
-footer_left = []
-footer_middle = []
+footer_left = ["Home"]
+footer_middle = ["Contact Us"]
 footer_right = []
 [[main]]
 name = "Home"
