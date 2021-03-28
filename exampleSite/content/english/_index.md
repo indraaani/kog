@@ -1,10 +1,9 @@
 ---
 banner:
-  title: KOG is committed to helping the youth<br>in revolutionising the world economy
+  title: KOG is committed to helping the youth<br>to revolutionise the world economy
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: 'Knowledge, Opportunity, Guidance. These are the three <br> principles
+    that we '
   button:
     enable: true
     label: Contact With Us
