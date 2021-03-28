@@ -14,8 +14,8 @@ feature:
   feature_item:
   - name: Knowledge
     icon: fas fa-book-open
-    content: Access to a variety of Workshops created by experts in a plethora of
-      fields.
+    content: Our members receive access to a variety of Workshops created by experts
+      in a plethora of fields.
   - name: Opportunity
     icon: fas fa-users
     content: 'A strong network of driven peers and industry expert mentors to help
