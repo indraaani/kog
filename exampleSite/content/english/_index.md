@@ -41,7 +41,7 @@ service:
       link: "#"
   - title: An initiative in partnership with LinkedIn
     images:
-    - images/service-3.png
+    - images/linkedin-logo-wine.png
     content: 'KOG could not be the extensive resource that it is without the help
       and unyielding support from LinkedIn. Our partnership has allowed us to take
       our vision and bring it to life with LinkedIn’s massive network and resources. '
