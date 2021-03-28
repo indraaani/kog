@@ -29,9 +29,8 @@ service:
   service_item:
   - title: Youth unemployment rates are at an all-time high
     images:
-    - images/service-1.png
-    - images/service-2.png
-    - images/service-3.png
+    - images/youth-unemployment-rates-by-level-of-education-in-india-2012-2018.png
+    - images/812106.png
     content: Some would argue that this is due to disparity in the youth’s skill levels.
       We are here to disagree. Youngsters across the country have theoretical understanding
       of their fields, but have not been taught how to practically apply themselves.
