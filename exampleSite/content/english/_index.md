@@ -10,26 +10,19 @@ banner:
     link: contact
 feature:
   enable: true
-  title: Wh
+  title: Our Key Principles
   feature_item:
-  - name: Clean Code
+  - name: Knowledge
     icon: fas fa-code
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Object Oriented
+    content: Access to a variety of Workshops created by experts in a plethora of
+      fields.
+  - name: Opportunity
     icon: fas fa-object-group
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: 24h Service
+    content: 'A strong network of driven peers and industry expert mentors. '
+  - name: Guidance
     icon: fas fa-user-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Value For Money
-    icon: fas fa-heart
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Faster Response
-    icon: fas fa-tachometer-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
-    icon: fas fa-cloud
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: 'One-on-one access to said mentors for a direct and holistic learning
+      experience. '
 service:
   enable: true
   service_item:
