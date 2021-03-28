@@ -18,7 +18,8 @@ feature:
       fields.
   - name: Opportunity
     icon: fas fa-users
-    content: 'A strong network of driven peers and industry expert mentors. '
+    content: 'A strong network of driven peers and industry expert mentors to help
+      our members network and grow. '
   - name: Guidance
     icon: fas fa-hands-helping
     content: 'One-on-one access to said mentors for a direct and holistic learning
