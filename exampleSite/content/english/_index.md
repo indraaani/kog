@@ -57,7 +57,7 @@ service:
       the ranks at Ahuja Plastics. Today, she is a part of their illustrative engineering
       team.
     button: ''
-    title: Meet Anusha Sethi
+    title: 'Meet Anusha Sethi '
 screenshot:
   enable: false
   title: Experience the best <br> workflow with us
