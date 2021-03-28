@@ -1,6 +1,6 @@
 ---
 banner:
-  title: KOG is committed to helping the youth<br>to revolutionise the world economy
+  title: We're helping the youth<br>revolutionise the world economy
   image: images/banner-art.svg
   content: Knowledge, Opportunity, Guidance. These are the three <br> principles that
     we use to usher the youth into becoming the best versions of themselves
