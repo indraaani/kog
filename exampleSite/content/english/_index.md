@@ -17,7 +17,7 @@ feature:
     content: Access to a variety of Workshops created by experts in a plethora of
       fields.
   - name: Opportunity
-    icon: fas fa-object-group
+    icon: fas fa-users
     content: 'A strong network of driven peers and industry expert mentors. '
   - name: Guidance
     icon: fas fa-user-clock
