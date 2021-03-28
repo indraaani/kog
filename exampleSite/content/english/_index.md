@@ -48,7 +48,8 @@ service:
       enable: false
       label: Check it out
       link: "#"
-  - images: ''
+  - images:
+    - images/young-indian-woman-happy-restaurant_81396-153.jpg
     content: Anusha is a 25 year old Plastics Engineer. When she joined KOG, Anusha
       had just graduated but was unable to find relevant work, given her niche speciality.
       With KOG, she was able to connect with Mansi Lall, the Director of Operations
