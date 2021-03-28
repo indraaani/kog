@@ -56,7 +56,8 @@ service:
       at Ahuja Plastics Inc. With Mansi’s guidance, Anusha found herself working up
       the ranks at Ahuja Plastics. Today, she is a part of their illustrative engineering
       team.
-    button: ''
+    button:
+      enable: true
     title: 'Meet Anusha Sethi '
 screenshot:
   enable: false
