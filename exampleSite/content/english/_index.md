@@ -6,7 +6,7 @@ banner:
     we use to usher the youth into becoming the best versions of themselves
   button:
     enable: true
-    label: Contact With Us
+    label: Join Us
     link: contact
 feature:
   enable: true
