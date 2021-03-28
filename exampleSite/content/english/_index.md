@@ -22,7 +22,7 @@ feature:
       our members network and grow. '
   - name: Guidance
     icon: fas fa-hands-helping
-    content: 'One-on-one access to said mentors for a direct and holistic learning
+    content: 'One-on-one access to mentors makes for a direct and holistic learning
       experience. '
 service:
   enable: true
