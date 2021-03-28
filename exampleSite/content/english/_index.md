@@ -13,7 +13,7 @@ feature:
   title: Our Key Principles
   feature_item:
   - name: Knowledge
-    icon: fas fa-code
+    icon: fas fa-book-open
     content: Access to a variety of Workshops created by experts in a plethora of
       fields.
   - name: Opportunity
