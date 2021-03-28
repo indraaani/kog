@@ -20,7 +20,7 @@ feature:
     icon: fas fa-users
     content: 'A strong network of driven peers and industry expert mentors. '
   - name: Guidance
-    icon: fas fa-user-clock
+    icon: fas fa-hands-helping
     content: 'One-on-one access to said mentors for a direct and holistic learning
       experience. '
 service:
