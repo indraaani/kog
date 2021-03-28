@@ -2,8 +2,8 @@
 banner:
   title: We're helping the youth<br>revolutionise the world economy
   image: images/banner-art.svg
-  content: Knowledge, Opportunity, Guidance. These are the three <br> principles that
-    we use to usher the youth into becoming the best versions of themselves
+  content: Knowledge, Opportunity, Guidance. These are the three principles that we
+    use<br>to usher the youth into becoming the best versions of themselves
   button:
     enable: true
     label: Join Us
