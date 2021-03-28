@@ -1,6 +1,6 @@
 ---
 banner:
-  title: We're helping the youth<br>to find their unique happy career
+  title: We're helping the youth<br>find their unique happy career
   image: images/banner-art.svg
   content: Knowledge, Opportunity, Guidance. These are the three principles that we
     use<br>to usher the youth into becoming the best versions of themselves
