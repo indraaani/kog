@@ -1,15 +1,12 @@
 ---
-title: "Contact Us"
-subtitle: ""
-# meta description
-description: "This is meta description"
-draft: false
+title: Contact Us
+subtitle: ''
+description: This is meta description
+
 ---
+### Get in touch with us
 
+If you're an industry expert looking to better the lives of the youth, let us work together. With your knowledge and our resources, we can change the lives of graduates across the world.
 
-### Why you should contact us!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
-
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+* **Phone: +91 123 234 5678**
+* **Mail: hello@kog.com**
