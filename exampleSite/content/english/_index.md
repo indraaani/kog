@@ -27,7 +27,7 @@ feature:
 service:
   enable: true
   service_item:
-  - title: Youth unemployment rates are at an all-time high.
+  - title: Youth unemployment rates are at an all-time high
     images:
     - images/service-1.png
     - images/service-2.png
