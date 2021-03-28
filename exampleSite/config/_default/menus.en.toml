@@ -6,6 +6,6 @@ name = "Home"
 url = "/"
 weight = 1
 [[main]]
-name = "Contact"
+name = "Contact Us"
 url = "contact"
 weight = 4
