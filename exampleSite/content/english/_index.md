@@ -1,7 +1,7 @@
 ---
 banner:
-  title: Knowledge Opportunity Guidance is reshaping<br>how the youth enter the world
-    economy
+  title: Knowledge Opportunity Guidance is committed to helping<br>in reshaping the
+    world economy
   image: images/banner-art.svg
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
     maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
