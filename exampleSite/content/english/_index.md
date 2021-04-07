@@ -72,7 +72,7 @@ call_to_action:
     get in touch with us.
   button:
     enable: true
-    label: Contact Us
+    label: Mentors, Contact Us
     link: contact
 
 ---
