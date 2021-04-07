@@ -5,7 +5,7 @@ banner:
   content: Knowledge, Opportunity, Guidance. These are the three principles that we
     use to usher the youth into becoming the best versions of themselves
   button:
-    enable: true
+    enable: false
     label: Join Us
     link: contact
 feature:
